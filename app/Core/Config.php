@@ -33,7 +33,7 @@ class Config
          * Define relative base path.
          */
 
-        define('DIR', '/');
+        define('DIR', 'https://pure-wildwood-2015.herokuapp.com/');
 
         /**
          * Set default controller and method for legacy calls.
